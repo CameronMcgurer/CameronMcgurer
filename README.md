@@ -1,4 +1,25 @@
-### Hi there 👋
+<h1> Hi, I'm Cameron! <br> Programmer, Cloud Practitioner, and Student </h1> 
+
+<h2> Computer Science Projects: </h2>
+
+- <b> </b>
+  - 
+- <b> </b>
+  - 
+- <b> </b>
+  - 
+- <b> </b>
+  - 
+
+<h2> Certifications </h2>
+
+- <b> AWS Cloud Practitioner </b>
+
+<h2> Connect with me: </h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/cameronmcgurer
 
 <!--
 **CameronMcgurer/CameronMcgurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
