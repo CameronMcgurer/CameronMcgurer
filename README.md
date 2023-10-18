@@ -1,10 +1,10 @@
-<h1> Hi, I'm Cameron! <br> Programmer, Cloud Practitioner, and Student </h1> 
+<h1> Hi, I'm Cameron! <br> Programmer, Student, and Cloud Practitioner </h1> 
 
 <h2> Computer Science Projects: </h2>
 
-- <b> </b>
+- <b> Universal Machine (Rust) </b>
   - 
-- <b> </b>
+- <b> Lossy PPM Image Compressor (Rust) </b>
   - 
 - <b> </b>
   - 
