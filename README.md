@@ -2,8 +2,8 @@
 
 <h2> Computer Science Projects: </h2>
 
-- [Universal Machine (Rust)](https://github.com/CameronMcgurer/UniversalMachine)
-- <b> Lossy PPM Image Compressor (Rust) </b>
+- <b> [Universal Machine (Rust)](https://github.com/CameronMcgurer/UniversalMachine) </b>
+- <b> [Lossy PPM Image Compressor (Rust)](https://github.com/CameronMcgurer/ImageCompressor) </b>
   - 
 - <b> </b>
   - 
