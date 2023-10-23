@@ -6,10 +6,7 @@
   - 
 - [Lossy PPM Image Compressor (Rust)](https://github.com/CameronMcgurer/ImageCompressor)
   - 
-- <b> </b>
-  - 
-- <b> </b>
-  - 
+
 
 <h2> Certifications </h2>
 
