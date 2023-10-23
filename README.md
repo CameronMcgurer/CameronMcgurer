@@ -5,8 +5,7 @@
 - [Universal Machine (Rust)](https://github.com/CameronMcgurer/UniversalMachine)
   - 
 - [Lossy PPM Image Compressor (Rust)](https://github.com/CameronMcgurer/ImageCompressor)
-  - 
-
+  -   
 
 <h2> Certifications </h2>
 
