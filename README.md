@@ -6,7 +6,7 @@
   - 
 - [Lossy PPM Image Compressor (Rust)](https://github.com/CameronMcgurer/ImageCompressor)
   -   
-- [Forking and Watch Folder (C and Bash)]()
+- [Forking and Watch Folder (C and Bash)](https://github.com/CameronMcgurer/WatchFolder)
   - 
 <h2> Certifications </h2>
 
